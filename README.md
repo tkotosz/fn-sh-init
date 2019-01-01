@@ -17,7 +17,7 @@ fn init --init-image=tkotosz/sh-init myfunc
 
 2. Deploy it
 ```
-fn deploy --app myapp myfunc --local
+fn deploy --local --app myapp myfunc
 ```
 
 3. Run it
