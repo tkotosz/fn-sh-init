@@ -12,7 +12,7 @@ Build new version of this init-image using the build.sh included in this repo.
 
 1. Create new function
 ```
-fn init --init-image=tkotosz/sh-init myfunc
+fn init --init-image=tkotosz/fn-sh-init myfunc
 ```
 
 2. Deploy it
